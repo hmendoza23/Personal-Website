@@ -18,10 +18,11 @@ class landing extends Component{
                 
                 <div className ="social-links">
                     {/*Github*/}
-                    <a href = "https://github.com/hmendoza23" target ="_blank" rel = "noopener noreferrer">
+                    <a href = "/resume" target ="_blank" rel = "noopener noreferrer">
                         <i className = "fa fa-github" areia-hidden = "true"></i>
                     </a>
-                    <a href = "https://github.com/hmendoza23" target ="_blank" rel = "noopener noreferrer">
+                    {/*Linkedin*/}
+                    <a href = "https://www.linkedin.com/in/hector-mendoza-4a10b2195/" target ="_blank" rel = "noopener noreferrer">
                         <i className = "fa fa-linkedin" areia-hidden = "true"></i>
                     </a>
                     <a href = "https://github.com/hmendoza23" target ="_blank" rel = "noopener noreferrer">

@@ -14,12 +14,17 @@ background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+
 
 }
 
+@media only screen and (min-width: 570px){
+  .hector-img{
+    height: 650px !important;
+    padding-top: 5em !important;
+  }
 
-
-.hector-img{
+}.hector-img{
   height: 750px;
   padding-top: 5em;
 }
+
 .banner-text{
   background-color: black;
   opacity: .8;
