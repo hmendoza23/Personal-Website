@@ -18,7 +18,7 @@ class landing extends Component{
                 
                 <div className ="social-links">
                     {/*Github*/}
-                    <a href = "/resume" target ="_blank" rel = "noopener noreferrer">
+                    <a href = "https://github.com/hmendoza23" target ="_blank" rel = "noopener noreferrer">
                         <i className = "fa fa-github" areia-hidden = "true"></i>
                     </a>
                     {/*Linkedin*/}
