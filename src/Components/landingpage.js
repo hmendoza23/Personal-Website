@@ -8,6 +8,27 @@ class landing extends Component{
             <Grid className = "landing-grid">
                 <Cell col = {12}>
                 <img className = "hector-img" src = {Hector} alt = "Hector"/>
+                <div className = "banner-text"> 
+                <h1><center>Computer Science Student</center>
+                </h1>
+                <hr/>
+                <p>
+                <center>HTML/CSS | BootStrap | Javascript | React | NodeJS | Wordpress | MySQL | Python | Java  </center>
+                </p>
+                
+                <div className ="social-links">
+                    {/*Github*/}
+                    <a href = "https://github.com/hmendoza23" target ="_blank" rel = "noopener noreferrer">
+                        <i className = "fa fa-github" areia-hidden = "true"></i>
+                    </a>
+                    <a href = "https://github.com/hmendoza23" target ="_blank" rel = "noopener noreferrer">
+                        <i className = "fa fa-linkedin" areia-hidden = "true"></i>
+                    </a>
+                    <a href = "https://github.com/hmendoza23" target ="_blank" rel = "noopener noreferrer">
+                        <i className = "far fa-file" areia-hidden = "true"></i>
+                    </a>
+                </div>
+                </div>
                 </Cell>
             </Grid>
             </div>

@@ -1,9 +1,12 @@
 import React, {Component} from 'react';
-
+//import {Grid, Cell} from 'react-mdl';
 class about extends Component{
     render(){
         return(
-            <div><h1>About Page</h1></div>
+            <div style = {{width: '100%', margin: 'auto'}}>
+            <h1>About me</h1>
+
+            </div>
         )
     }
 }
