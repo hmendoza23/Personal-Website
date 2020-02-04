@@ -1,4 +1,4 @@
-# Hi! Im' Hector Mendoza.
+# Hi! I'm Hector Mendoza.
  
 ### What's there to know about me?
 I'm currently enrolled at California State University, Long Beach. At the moment, I am finishing up my last semester and am hoping for a position in industry soon!
