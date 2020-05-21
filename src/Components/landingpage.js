@@ -11,7 +11,7 @@ class landing extends Component{
             
                 <Cell col = {12}>
                 <div classname = "top-page">
-                <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+                <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
                 </div>
                 <center><img classname = "me" src = "hector-img" src = {Hector} alt = "Hector"/></center>
         
