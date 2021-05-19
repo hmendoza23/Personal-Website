@@ -16,6 +16,6 @@ I'm a Computer Science graduate from California State University Long Beach and 
 - React
 - React-mdl library
 
-#### Most recent update: **February 3, 2020**
+#### Most recent update: **May 19, 2021**
 
 
