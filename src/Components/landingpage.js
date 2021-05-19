@@ -16,7 +16,7 @@ class landing extends Component{
                 <center><img classname = "me" src = "hector-img" src = {Hector} alt = "Hector"/></center>
         
                 <div className = "banner-text"> 
-                <h1><center>Computer Science Graduate / Help desk Analyst </center>
+                <h1><center>Computer Science Graduate</center>
                 </h1>
                 <hr/>
                 <p>
