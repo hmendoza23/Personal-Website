@@ -1,7 +1,7 @@
 # Hi! I'm Hector Mendoza.
  
 ### What's there to know about me?
-I'm a Computer Science graduate from California state Long Beach and I currently work as a help desk analyst at Amity Foundation.
+I'm a Computer Science graduate from California State University Long Beach and I currently work as a help desk analyst at Amity Foundation.
 
 ## This Website gives insights to my:
 - Resume
