@@ -1,7 +1,7 @@
 # Hi! I'm Hector Mendoza.
  
 ### What's there to know about me?
-I'm currently enrolled at California State University, Long Beach. At the moment, I am finishing up my last semester and am hoping for a position in industry soon!
+I'm a Computer Science graduate from California State University Long Beach and I currently work as a help desk analyst at Amity Foundation.
 
 ## This Website gives insights to my:
 - Resume
@@ -16,6 +16,6 @@ I'm currently enrolled at California State University, Long Beach. At the moment
 - React
 - React-mdl library
 
-#### Most recent update: **February 3, 2020**
+#### Most recent update: **May 19, 2021**
 
 
